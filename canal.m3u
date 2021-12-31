@@ -1,6 +1,6 @@
 EXTM3U
 
- #EXTINF:-1 tvg-logo="https://fotos.subefotos.com/dd3f339b1bee487c0c5bee54055032c6o.jpg" group-title="Series 24/7",ALF
+ #EXTINF:-1 tvg-logo="https://fotos.subefotos.com/dd3f339b1bee487c0c5bee54055032c6o.jpg" group-title="Series 24/7",CANAL
 http://ss1.mxl-apps.services:2052/iptv_data/app/script/tv/ede94edfc2c2f6a893199a11c904598520b1fe39/65ac4fa96d08176851c4ae41a6758f9aba8b085f/100234_12.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.filmspourenfants.net/wp-content/uploads/2018/01/animaniacs-a-349x500.jpg" group-title="Series 24/7",Animaniacs
